@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        display: flex;
+        background-color: blue;
+    }
+}
