@@ -3,22 +3,22 @@
     {
       "id": 1,
       "titulo": "Adição",
-      "imagem": "/img/adicao.png"
+      "imagem": "../img/adicao.png"
     },
     {
       "id": 2,
       "titulo": "Subtração",
-      "imagem": "/img/subtracao.png"
+      "imagem": "../img/subtracao.png"
     },
     {
       "id": 3,
       "titulo": "Divisão",
-      "imagem": "/img/divisao.png"
+      "imagem": "../img/divisao.png"
     },
     {
       "id": 4,
       "titulo": "Multiplicação",
-      "imagem": "/img/multiplicacao.png"
+      "imagem": "../img/multiplicacao.png"
     }
   ]
 }
