@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Vitor Carvalho Domingos
+- Matricula: 896226
+- Proposta de projeto escolhida: Calculadora
+- Breve descrição sobre seu projeto: Esse projeto serve para você escolher as operações e colocar dois números para que resulte a certa operação desses dois.
 
 **Print do teste da API com visualização do JSON**
 
